@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots /components/users//UserDetails. default 1`] = `
+<table
+  className="sc-bdVaJa dYBbGo"
+>
+  <tbody>
+    <tr>
+      <td>
+        ID
+      </td>
+      <td>
+        1
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Name
+      </td>
+      <td>
+        Alice
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Gender
+      </td>
+      <td>
+        female
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Address
+      </td>
+      <td>
+        Tokyo, Japan
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Storyshots /components/users//UserList. default 1`] = `
+<ul>
+  <li>
+    <a
+      href="/users/1"
+    >
+      Alice
+    </a>
+  </li>
+  <li>
+    <a
+      href="/users/2"
+    >
+      Bob
+    </a>
+  </li>
+  <li>
+    <a
+      href="/users/3"
+    >
+      Carol
+    </a>
+  </li>
+</ul>
+`;
